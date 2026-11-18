@@ -3,6 +3,6 @@
 // login and the rules in supabase-setup.sql, not because these values are secret.
 // NEVER paste a "secret" or "service_role" key here.
 window.CC_CONFIG = {
-  url: "PASTE_YOUR_SUPABASE_PROJECT_URL_HERE",
-  anonKey: "PASTE_YOUR_SUPABASE_PUBLISHABLE_KEY_HERE"
+  url: "https://xnhaaysnnynwbphgmblh.supabase.co",
+  anonKey: "sb_publishable_IlTloRzfKCC9iSX_TmZplA_yrqv04l3"
 };
