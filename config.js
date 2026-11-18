@@ -1,0 +1,8 @@
+// The ONLY two things you edit in this file are the two values inside the quote marks.
+// Both are meant to be public (Supabase designs them that way). Your data stays safe because of the
+// login and the rules in supabase-setup.sql, not because these values are secret.
+// NEVER paste a "secret" or "service_role" key here.
+window.CC_CONFIG = {
+  url: "PASTE_YOUR_SUPABASE_PROJECT_URL_HERE",
+  anonKey: "PASTE_YOUR_SUPABASE_PUBLISHABLE_KEY_HERE"
+};
